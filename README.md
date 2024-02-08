@@ -8,11 +8,6 @@ Urily is a web-based URL shortening platform that allows you to shorten and mana
 - Delete or edit your URLs anytime.
 - Generate QR codes for your shortened links.
 - View analytics such as the number of clicks and the browser type.
-- Organize your links into groups.
-- Invite people via UTM and get points.
-- Protect your links with passwords.
-- User authentication using Email-password and Google OAuth2.0.
-- Payment integration.
 
 ## Tech Stacks
 MongoDB, JavaScript, Node.js, Express.js, React.js, Redux, RESTful APIs, Chart.js, HTML, CSS
@@ -27,9 +22,3 @@ To run the application, you'll need to have Node.js and MongoDB installed on you
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and run npm install to install the necessary dependencies.
 3. Start the server by running npm start.
-
-## Contributing
-Contributions to the project are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request in diffrent branch.
-
-## License
-This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
